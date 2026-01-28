@@ -1,16 +1,14 @@
-## Hi there 👋
+#hi 👋 i'm  kilari navya deepika
+🎓 2nd year CSE(AI ML) student
+💻 Languages:java,python,c++(basics)
+📕Learning:DSA and Machine learning
+💡currently praciting on leet code and hacker rank
 
-<!--
-**kilarinavyadeepika-lab/kilarinavyadeepika-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Skills
+- Java
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+- Email: kilarinavyadeepika@gmail.com
